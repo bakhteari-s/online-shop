@@ -1,0 +1,7 @@
+#info-banner {
+  position: fixed;
+  width: 100%;
+  height: 3rem;
+  background-color: blue;
+  margin-top: 2rem;
+}
